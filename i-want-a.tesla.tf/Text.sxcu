@@ -1,0 +1,12 @@
+﻿{
+  "Version": "12.4.1",
+  "Name": "Text",
+  "DestinationType": "TextUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://i-want-a.tesla.tf/api/paste",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "key": "whatisapassword"
+  },
+  "FileFormName": "fdata"
+}
