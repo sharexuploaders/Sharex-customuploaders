@@ -10,7 +10,5 @@ The following uploaders are owned by me:
 - https://x.minecraft.christmas
 - https://360.no-sco.pe
 
-Data with the domains listed above will always remain private.
-
 Note I am not responsible for any uploads made to the listed domains.
 This Repo is not the official Sharex repo, for the original repo head to: https://github.com/ShareX/CustomUploaders
