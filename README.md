@@ -8,6 +8,7 @@ The following uploaders are owned by me:
 - https://public.discord.gold
 - https://up.load.wtf
 - https://x.minecraft.christmas
+- https://360no-sco.pe
 
 Data with the domains listed above will always remain private.
 
