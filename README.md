@@ -11,4 +11,4 @@ The following uploaders are owned by me:
 - https://360.no-sco.pe
 
 Note I am not responsible for any uploads made to the listed domains.
-This Repo is not the official Sharex repo, for the original repo head to: https://github.com/ShareX/CustomUploaders
+All data will remain private and will never be sold or shared.
